@@ -72,12 +72,12 @@ function Home2() {
                   sx={{ fontSize: 45 }}
                 />
                 <a
-                  href="mailto:bhanderimiraj123@gmail.com"
+                  href="mailto:mirajpatel752@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="con-det"
                 >
-                  bhanderimiraj123@gmail.com
+                  mirajpatel752@gmail.com
                 </a>
               </div>
               <div>
