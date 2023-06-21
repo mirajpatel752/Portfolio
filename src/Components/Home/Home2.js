@@ -63,7 +63,7 @@ function Home2() {
                   sx={{ fontSize: 45 }}
                 />
                 <a href="tel:+918140005609" className="con-det">
-                  +91 8140005609                </a>
+                  +91 8140005609</a>
               </div>
               <div>
                 <EmailIcon

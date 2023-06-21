@@ -23,7 +23,6 @@ function AboutCard() {
               <ScreenSearchDesktopIcon /> Researching about latest tech
             </li>
           </ul>
-
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>

@@ -29,7 +29,7 @@ function Projects() {
 							techstack="React.js"
 							link="https://stage.zleetz.com"
 						/>
-					</Col>	
+					</Col>
 					<Col md={4} className="project-card">
 						<ProjectCard
 							imgPath={vbites}
@@ -57,7 +57,6 @@ function Projects() {
 							isBlog={false}
 							title="An avenue for the evolution of digital assets swap on solana at lightning speed."
 							techstack="SymbiotikaSwap"
-							// link="https://admin.vbites.ai/"
 						/>
 					</Col>
 					<Col md={4} className="project-card">
@@ -70,9 +69,9 @@ function Projects() {
 						/>
 					</Col>
 
-				
 
-		
+
+
 				</Row>
 			</Container>
 		</Container>
