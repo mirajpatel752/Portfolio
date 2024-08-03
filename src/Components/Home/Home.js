@@ -4,6 +4,8 @@ import homeLogo from "../../Assets/profile_img.jpeg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import myImg from "../../Assets/avatar.svg";
+
 
 function Home() {
   return (
@@ -31,7 +33,8 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <img src={homeLogo} alt="home pic" className="img-fluid" />
+            <img src={myImg} className="img-fluid" alt="avatar" />
+              {/* <img src={homeLogo} alt="home pic" className="img-fluid" /> */}
             </Col>
           </Row>
         </Container>

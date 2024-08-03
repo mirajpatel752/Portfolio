@@ -21,7 +21,7 @@ function ResumeNew() {
 					<Button
 						variant="primary"
 						href={
-							"https://drive.google.com/u/0/uc?id=1JKskv5MAK665AKCGrJ5VlVSvfcJkpyS3&export=download"
+							"https://drive.google.com/file/d/1DChVfGUiNDPCWGZCrUbqiefI7EsKNJ5H/view?usp=sharing"
 						}
 						target="_blank"
 					>
@@ -40,7 +40,7 @@ function ResumeNew() {
 					<Button
 						variant="primary"
 						href={
-							"https://drive.google.com/u/0/uc?id=1JKskv5MAK665AKCGrJ5VlVSvfcJkpyS3&export=download"
+							"https://drive.google.com/file/d/1DChVfGUiNDPCWGZCrUbqiefI7EsKNJ5H/view?usp=sharing"
 						}
 						target="_blank"
 					>

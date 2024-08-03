@@ -22,7 +22,6 @@
       itemprop="description"
       content="Self Developed personal website build with React.js"
     />
- 
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="#" />
@@ -33,7 +32,6 @@
       content="Self Developed personal website build with React.js"
     />
 
-
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Miraj | Portfolio" />
@@ -41,11 +39,24 @@
       name="twitter:description"
       content="Self Developed personal website build with React.js"
     />
-
   </head>
 
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-KQRGJ157GP"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-KQRGJ157GP");
+    </script>
     <div id="root"></div>
   </body>
 </html>
